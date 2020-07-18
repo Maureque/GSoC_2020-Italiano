@@ -13,9 +13,6 @@ Le regole di topologia assicurano che i set di dati siano conformi alle condizio
 
 ## **Progetto 2020:**
 
-**Link to wiki page: https://github.com/Maureque/GSoC2020-topology-osgeo-gvsig/wiki**
+**Link alla pagina wiki: https://github.com/Maureque/GSoC2020-topology-osgeo-gvsig/wiki**
 
-**OSgeo wiki page: https://wiki.osgeo.org/wiki/New_rules_for_the_Topology_Framework_in_gvSIG_Desktop_(_GSoC_2020_)**
-
-
-
+**OSgeo pagina wiki: https://wiki.osgeo.org/wiki/New_rules_for_the_Topology_Framework_in_gvSIG_Desktop_(_GSoC_2020_)**
